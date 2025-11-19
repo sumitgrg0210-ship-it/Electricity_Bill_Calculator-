@@ -1,2 +1,3 @@
 # Electricity_Bill_Calculator-
 The Electricity Bill Calculator is a Python program that calculates the total electricity bill based on the number of units consumed by the user
+The Electricity Bill Calculator is a Python program that calculates the total electricity bill based on the number of units consumed by the user. The program uses slab-wise rates to compute the energy charges and adds a fixed charge to determine the final bill amount. It demonstrates the use of conditional statements, arithmetic operators, variables, and user input in Python. This project helps understand how real-life billing systems work using simple programming logic.
